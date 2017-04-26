@@ -1,0 +1,15 @@
+Perf - Herramienta de análisis de rendimiento para Linux
+	Es capaz de realizar perfiles estadísticos de todo el sistema
+
+Scripts:
+	- perfcall.py: Se ejecuta perf y guarda la salida a CSV
+	- perfcsvplot: Se grafica haciendo uso de MatPlotlib y Pandas, la salida en formato CSV
+
+Librerias:
+	- Pandas: Libreria escrita en Python, cuyo objetivo es el análisis y manipulación de datos. En concreto, ofrece las estructuras y operaciones necesarias para la manipulación de tablas y series numericas y temporales.
+	- Matplotlib:
+
+Benchmarksgame: http://benchmarksgame.alloth.debian.org
+
+tlopezfr@ull.edu.es
+Tomas López-Fragoso Rumeu

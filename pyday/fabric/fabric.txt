@@ -1,0 +1,4 @@
+Twitter:@monobotblog
+Email: monobot.soft@gmail.com
+
+Fabric: es un framework de alto nivel para linea de comandos. Permite tanto la ejecución de comandos en local como en remoto, en uno o varios servidores. 

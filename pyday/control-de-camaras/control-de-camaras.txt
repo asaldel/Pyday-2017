@@ -1,0 +1,11 @@
+OPCIONES OPEN-SOURCE
+	- OPENCV: Tiene un wrapper para python (cv2). Principalmente cámaras web
+	- GPHOTO: Software para sistemas basados en linux que permite controlar mas de 2300 camaras. Pensado para el uso mediante linea de comandos
+	- PYGAME: Libreria para python, principalmente diseñada para aplicaciones multimedia (juegos)
+	- 
+
+PROTOCOLOS: Centrados en cámaras de grandes prestaciones
+	- AUDELA
+	- LIMA
+	- ARAVIS
+	- INDI

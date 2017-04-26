@@ -1,0 +1,30 @@
+Github: https://github.com/torehc
+Telegram: @torehc
+Twitter: @torehc20
+
+BotFather: El Bot que controla los Bots (@BotFather)
+
+Librerias:
+	- pyTelegramBotAPI (https://github.com/eternnoir/pyTelegramBotAPI)
+	- python-telegram-bot
+
+1. /newbot
+2. username_bot
+
+Ideas para bots:
+	- Bot control impresoras 3D
+	- Bot domótica de sensores
+	- Envío de cámaras de seguridad
+	
+	- Estadísticas de historial de partidos (Quiniela)
+		/stats Getafe Tenerife
+	- Pedir comidad Just EAT
+		/local PyPizzeria
+		/pizzas Barbacoa Vegetariana
+	- Contabilidad para un Autónomo
+		/ingreso 100€
+		/gasto 15€
+		/history
+		/stats
+
+	-----------------Formula + API-----------------	

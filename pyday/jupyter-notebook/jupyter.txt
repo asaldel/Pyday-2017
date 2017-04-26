@@ -1,0 +1,8 @@
+Anatomía de un notebook
+
+Notebook = Lista de celdas + Metadatos
+
+Tipos de celdas:
+	- Celda de texto: Aceptan Markdown y HTML
+	- Celda de código (python)
+	- Celda de resultados

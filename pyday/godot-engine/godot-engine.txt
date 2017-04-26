@@ -1,0 +1,46 @@
+Godot Engine
+
+- OKAM libera Godot Engine en 2014
+- Creación de juegos, aplicaciones multimedia e interactivas
+- Objetivo: casero, diversión, profesional
+- Integración de roles en la misma herramienta: diseñador, gráficos, programador
+- Herramientas complementarias: GIT, Inkscape, GIMP, Blender
+
+Características:
+	- Gráficos 2D/3D
+	- Input (teclado, joystick, pantalla táctil)
+	- Sonido/Música
+	- Física (Colisiones, formas, fuerzas)
+	- Efectos (Sistemas de partículas, parallax, etc)
+	- Menús/Ventanas
+	- Acceso a fichero (JSON)
+	- Exportación a distintas plataformas
+
+Entorno de trabajo:
+	- Editor 2D, 3D, Scripting
+	- Ficheros de texto plano (GIT)
+	- Control de versiones
+
+Escenas y nodos:
+	- Escena: Divide y vencerás (.tscn)
+	- Las escenas son árbol de nodos
+	- Los nodos agregan propiedades y características a las escenas
+	- A las escenas se les puede añadir programación y también otras escenas
+
+Scripting (GDPython):
+	- Se requiere un lenguaje de scripting
+	- Puede invocar todo el catálogo de nodos existente
+	- Crear nuevas funcionalidades
+	- Es como Python pero con algunas adaptaciones
+	- Recolector de basura
+	- Compilación
+
+Particularidades:
+	- Acceso a los nodos de la escena
+	- Acceso a métodos/atributos de los nodos y escenas
+	- Bucle del juego
+
+Para terminar:
+	- Fichero ejecutable para nuestro SO
+	- Demos y ejemplos para seguir aprendiendo
+	- Templates de exportación para varios sistemas

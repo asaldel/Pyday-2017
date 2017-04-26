@@ -1,0 +1,22 @@
+Twitter: @Zerasul
+Github: zerasul
+
+	- Adquisición
+		OpenCV: Librería de procesado de imagenes e imagen por computador. Es libre y basada en C++. Para instalarlo, usar Anaconda. 
+		Para instalar OpenCV en una RB Pi, tendremos que hacerlo compilando los fuentes.
+	- Pre-Procesado/Segmentación
+	- Análisis
+		* Número de objetos
+		* Perímetro
+		* Áreas detectadas
+		* Momentos de hu
+	- Base de conocimiento y conclusiones (Programa WEKA)
+		* TensorFlow: Framework para neurocomputación en Python
+
+Referencias:
+	- OpenCV
+	- Anaconda
+	- Momentos de Hu
+	- Weka
+	- PyImageSearch
+
